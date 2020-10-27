@@ -12,9 +12,6 @@
 - 🛢 &nbsp; MongoDB | PostGreSQL
 - 🔧 &nbsp; Git | Markdown | Hugo
 
-<br/>
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=birbjam&show_icons=true)](https://github.com/birbjam)
 
 <h3> come say hi </h3>
 
