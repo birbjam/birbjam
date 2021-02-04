@@ -1,6 +1,6 @@
 <h2> hi there</h2>
 
-- 👩🏼‍💻 Farmer turned web developer
+- 👩🏼‍💻 Web Developer from Tallinn, Estonia
 - 🔭 Currently working on: 
   - [Amphibian Disease Portal](https://amphibiandisease.org/) for UC Berkeley's Museum of Vertebrate Zoology 
   - A new [Local Contexts](https://localcontexts.org/) website for Biocode LLC
