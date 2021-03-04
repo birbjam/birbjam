@@ -4,11 +4,10 @@
 - 🔭 Currently working on: 
   - [Amphibian Disease Portal](https://amphibiandisease.org/) for UC Berkeley's Museum of Vertebrate Zoology 
   - A new [Local Contexts](https://localcontexts.org/) website for Biocode LLC
-- 🌱 In the process of learning Python with Django
 
 <h3>tech stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Python | Bootstrap | Node.js | ReactJS | Django 
 - 🛢 &nbsp; MongoDB | PostGreSQL
 - 🔧 &nbsp; Git | Markdown | Hugo
 
