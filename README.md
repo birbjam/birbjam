@@ -1,15 +1,16 @@
 <h2> hi there</h2>
 
 - 👩🏼‍💻 Web Developer from Tallinn, Estonia
-- 🔭 Currently working on: 
+- 🔭 Current and Previous Projects: 
   - [Amphibian Disease Portal](https://amphibiandisease.org/) for UC Berkeley's Museum of Vertebrate Zoology 
-  - A new [Local Contexts](https://localcontexts.org/) website for Biocode LLC
+  - A new [Local Contexts](https://localcontexts.org/) Hub for Biocode LLC
+  - User Interface for [Functional Trait Resource for Environmental Studies (FuTRES)](https://futres.org/) for Biocode LLC
 
 <h3>tech stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Python | Bootstrap | Node.js | ReactJS | Django 
-- 🛢 &nbsp; MongoDB | PostGreSQL
-- 🔧 &nbsp; Git | Markdown | Hugo
+- 🌐 &nbsp; HTML | CSS | JavaScript | Python | Bootstrap | NodeJS | ReactJS | Django 
+- 🛢 &nbsp; MongoDB | PostGreSQL | GEOME
+- 🔧 &nbsp; Git | Markdown | Hugo | Netlify | Heroku
 
 
 <h3> come say hi </h3>
