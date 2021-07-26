@@ -3,7 +3,7 @@
 - 👩🏼‍💻 Web Developer from Tallinn, Estonia
 - 🔭 Current and Previous Projects: 
   - [Amphibian Disease Portal](https://amphibiandisease.org/) for UC Berkeley's Museum of Vertebrate Zoology 
-  - A new [Local Contexts](https://localcontexts.org/) Hub for Biocode LLC
+  - A new [Local Contexts](https://localcontexts.org/) Hub for NYU's Anthropology Department
   - User Interface for [Functional Trait Resource for Environmental Studies (FuTRES)](https://futres.org/) for Biocode LLC
 
 <h3>tech stack</h3>
