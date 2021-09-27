@@ -6,14 +6,14 @@
   - A new [Local Contexts](https://localcontexts.org/) Hub for NYU's Anthropology Department
   - User Interface for [Functional Trait Resource for Environmental Studies (FuTRES)](https://futres.org/) for Biocode LLC
 
-<h3>tech stack</h3>
+<h3>things i use</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Python | Bootstrap | NodeJS | ReactJS | Django 
 - 🛢 &nbsp; MongoDB | PostGreSQL | GEOME
 - 🔧 &nbsp; Git | Markdown | Hugo | Netlify | Heroku
 
 
-<h3> come say hi </h3>
+<h3> say hello </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dianalovette/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diana%20Lovette-blue?style=flat-square&logo=linkedin"></a>
