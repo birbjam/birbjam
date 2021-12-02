@@ -4,8 +4,8 @@
 
 🔭 Current and Previous Projects: 
   - [Amphibian Disease Portal](https://amphibiandisease.org/) for UC Berkeley's Museum of Vertebrate Zoology 
-  - A new [Local Contexts](https://localcontexts.org/) Hub for NYU's Anthropology Department
-  - User Interface for [Functional Trait Resource for Environmental Studies (FuTRES)](https://futres.org/) for Biocode LLC
+  - [Local Contexts Hub](https://localcontexts.org/tk-label-hub/)
+  - User Interface for [Functional Trait Resource for Environmental Studies (FuTRES)](https://futres.org/)
 
 #### languages
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
