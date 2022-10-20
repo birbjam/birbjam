@@ -3,7 +3,7 @@
 👩🏼‍💻 Web Developer from Tallinn, Estonia
 
 🔭 Current and Previous Projects: 
-  - [Amphibian Disease Portal](https://amphibiandisease.org/) for UC Berkeley's Museum of Vertebrate Zoology 
+  - [Amphibian Disease Portal](https://amphibiandisease.org/) and Landing Page for [AmphibiaWeb](https://amphibiaweb.org/)for UC Berkeley's Museum of Vertebrate Zoology 
   - [Local Contexts Hub](https://localcontexts.org/tk-label-hub/)
   - User Interface for [Functional Trait Resource for Environmental Studies (FuTRES)](https://futres.org/)
 
