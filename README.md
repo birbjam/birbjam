@@ -1,10 +1,12 @@
 <h2> hi there</h2>
 
-👩🏼‍💻 Web Developer from Tallinn, Estonia
+👩🏼‍💻 Full Stack Software Developer 
+👾 Team Lead at [Local Contexts](https://localcontexts.org/)
 
 🔭 Current and Previous Projects: 
-  - [Amphibian Disease Portal](https://amphibiandisease.org/) and Landing Page for [AmphibiaWeb](https://amphibiaweb.org/) for UC Berkeley's Museum of Vertebrate Zoology 
   - [Local Contexts Hub](https://localcontexts.org/tk-label-hub/)
+  - [Amphibian Disease Portal](https://amphibiandisease.org/) and
+  - Landing Page for [AmphibiaWeb](https://amphibiaweb.org/) for UC Berkeley's Museum of Vertebrate Zoology 
   - User Interface for [Functional Trait Resource for Environmental Studies (FuTRES)](https://futres.org/)
 
 #### languages
