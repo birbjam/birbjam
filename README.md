@@ -1,7 +1,7 @@
 <h2> hi there</h2>
 
 👩🏼‍💻 Full Stack Software Developer  <br>
-👾 Team Lead at [Local Contexts](https://localcontexts.org/)
+👾 Technical Team Lead at [Local Contexts](https://localcontexts.org/)
 
 🔭 Current and Previous Projects: 
   - [Local Contexts Hub](https://localcontexts.org/tk-label-hub/)
